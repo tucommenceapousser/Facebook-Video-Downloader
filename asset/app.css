@@ -8,6 +8,118 @@ html {
 	}
 }
 
+.d-flex.flex-md-row.align-items-center {
+		background-color: #007bff; /* Bootstrap's primary color */
+}
+
+h5.my-0.mr-md-auto.font-weight-normal {
+		color: #ff0000; /* White text */
+}
+
+h1.display-4 {
+		background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+		-webkit-background-clip: text;
+		color: transparent;
+		font-family: 'Indie Flower', cursive; /* Add a custom font for a playful look */
+}
+
+/* Additional styling for Info Container */
+.info-container {
+		background-color: #ff0000; /* Bootstrap's light gray background */
+		padding: 15px;
+		border-radius: 10px;
+		margin: 20px 0;
+}
+
+.info-container p {
+		margin: 5px 0;
+		font-size: 14px;
+}
+
+/* Form Input Styling */
+.input-group {
+		margin-bottom: 20px;
+}
+
+/* Main Content Section */
 .container {
-	max-width: 960px;
+		background-color: #fff; /* White background */
+		border-radius: 10px;
+		box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		padding: 20px;
+		margin-bottom: 20px;
+}
+
+/* Result Section Styling */
+#result {
+		background-color: #f8f9fa; /* Bootstrap's light gray background */
+		border-radius: 10px;
+		padding: 20px;
+		margin-top: 20px;
+}
+
+/* Footer Styling */
+.footer {
+		background-color: #343a40; /* Bootstrap's dark background color */
+		color: #fff;
+}
+
+/* Styling Input Fields */
+input.form-control {
+		border-radius: 10px;
+		box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Custom Button Style */
+.btn-custom {
+		background-color: #ff6600; /* Orange */
+		color: #fff;
+		border: none;
+}
+
+/* Animated Header */
+h5 {
+		animation: fadeInDown 1s;
+		color: #ff0000;
+}
+
+@keyframes fadeInDown {
+		0% {
+				opacity: 0;
+				transform: translateY(-20px);
+		}
+		100% {
+				opacity: 1;
+				transform: translateY(0);
+		}
+}
+
+/* Colorful Hacker/Anonymous Style */
+body {
+		background-color: #000; /* Black */
+		color: #fff; /* White */
+}
+
+/* Header and Footer Styles */
+.navbar-dark .navbar-nav .nav-link {
+		color: #00ff00; /* Green */
+}
+
+.logo {
+		position: center;
+		bottom: 10px;
+		right: 10px;
+		max-width: 50px;
+		max-height: 50px;
+}
+
+.instructions {
+		color: #ff0000;
+		font-size: 18px;
+		margin-top: 30px;
+		text-align: left;
+}
+
+.instructions p {
+		margin-bottom: 15px;
 }
