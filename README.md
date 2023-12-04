@@ -18,4 +18,4 @@ Facebook Video Downloader in PHP.
 
 ## Screenshots
 
-![Screen](https://raw.githubusercontent.com/tucommenceapousser/Facebook-Video-Downloader/main/Screenshot_2023-12-04-01-07-30-006_com.android.chrome-edit.jpg)
+![Screen](https://raw.githubusercontent.com/tucommenceapousser/Facebook-Video-Downloader/master/Screenshot_2023-12-04-01-07-30-006_com.android.chrome-edit.jpg)
