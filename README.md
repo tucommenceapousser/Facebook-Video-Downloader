@@ -9,8 +9,11 @@ Facebook Video Downloader in PHP.
 3. For downloading Reels, use the "Download Reel" button in the navigation.
 
 ## Clone on Replit
+### clone with php webserver framework
 
 [![Run on Replit](https://replit.com/badge/github/tucommenceapousser/Facebook-Video-Downloader)](https://replit.com/github/tucommenceapousser/Facebook-Video-Downloader)
+
+let the default initial command (php -S 0.0.0.0:8000 -t .)
 
 ## online repl
 
