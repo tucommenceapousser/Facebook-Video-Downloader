@@ -6,7 +6,7 @@ Facebook Video Downloader in PHP.
 
 1. Paste the Facebook Video URL in the input field above.
 2. Click the "Download" button to get the download links.
-3. For downloading Reels, use the "Download Reel" button in the navigation.
+3. For downloading Reals, use the "Download Reel" button in the navigation.
 
 ## Clone on Replit
 ### clone with php webserver framework
