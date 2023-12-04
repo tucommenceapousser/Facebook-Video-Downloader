@@ -15,7 +15,12 @@ Facebook Video Downloader in PHP.
 
 let the default initial command (php -S 0.0.0.0:8000 -t .)
 
-## online repl
+## Reals downloader
+
+i've use rapidapi for the facebook reals downloader
+[Facebook-Reals-Downloader](https://rapidapi.com/vikas5914/api/facebook-reel-and-video-downloader/)
+
+## Online repl
 
 [Facebook-Video-Downloader](https://fcbk-video-dl.trkn.repl.co/)
 
